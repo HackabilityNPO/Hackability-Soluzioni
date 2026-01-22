@@ -199,7 +199,6 @@ None listed.
 Tutti i file del progetto sono disponibili come Release Assets su GitHub. Clicca sui link sottostanti per scaricare i singoli file:
 
 - **[kiro-ro_.stl](https://github.com/HackabilityNPO/Hackability-Soluzioni/releases/download/project-0ed949da-e9b9-4034-8b6a-73a4c65f4593/kiro-ro_.stl)** - 4.40 MB
-- **[kiro-rec'.stl](https://github.com/HackabilityNPO/Hackability-Soluzioni/releases/download/project-0ed949da-e9b9-4034-8b6a-73a4c65f4593/kiro-rec.stl)** - 1.82 MB
 
 **Visualizza tutti i file della release:** [project-0ed949da-e9b9-4034-8b6a-73a4c65f4593](https://github.com/HackabilityNPO/Hackability-Soluzioni/releases/tag/project-0ed949da-e9b9-4034-8b6a-73a4c65f4593)
 

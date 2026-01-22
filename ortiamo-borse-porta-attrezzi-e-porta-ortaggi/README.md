@@ -111,15 +111,15 @@ None listed.
 
 Tutti i file del progetto sono disponibili come Release Assets su GitHub. Clicca sui link sottostanti per scaricare i singoli file:
 
-- **[Assieme sacca ortaggi ok.iam](https://github.com/HackabilityNPO/Hackability-Soluzioni/releases/download/project-c3c325a1-ca54-46b3-bd2f-f247fb9489fb/Assieme.sacca.ortaggi.ok.iam)** - 1.58 MB
-- **[Assieme sacca ortaggi ok.ipn](https://github.com/HackabilityNPO/Hackability-Soluzioni/releases/download/project-c3c325a1-ca54-46b3-bd2f-f247fb9489fb/Assieme.sacca.ortaggi.ok.ipn)** - 115.00 KB
-- **[Assiemetasca attrezzi ok.iam](https://github.com/HackabilityNPO/Hackability-Soluzioni/releases/download/project-c3c325a1-ca54-46b3-bd2f-f247fb9489fb/Assiemetasca.attrezzi.ok.iam)** - 935.50 KB
-- **[Assiemetasca attrezzi ok.ipn](https://github.com/HackabilityNPO/Hackability-Soluzioni/releases/download/project-c3c325a1-ca54-46b3-bd2f-f247fb9489fb/Assiemetasca.attrezzi.ok.ipn)** - 64.50 KB
-- **[attacco angolo esterno.ipt](https://github.com/HackabilityNPO/Hackability-Soluzioni/releases/download/project-c3c325a1-ca54-46b3-bd2f-f247fb9489fb/attacco.angolo.esterno.ipt)** - 114.00 KB
-- **[attacco angolo.ipt](https://github.com/HackabilityNPO/Hackability-Soluzioni/releases/download/project-c3c325a1-ca54-46b3-bd2f-f247fb9489fb/attacco.angolo.ipt)** - 158.00 KB
-- **[frontale e fondo con annotazioni.idw](https://github.com/HackabilityNPO/Hackability-Soluzioni/releases/download/project-c3c325a1-ca54-46b3-bd2f-f247fb9489fb/frontale.e.fondo.con.annotazioni.idw)** - 442.50 KB
-- **[frontale e fondo uniti-1.idw](https://github.com/HackabilityNPO/Hackability-Soluzioni/releases/download/project-c3c325a1-ca54-46b3-bd2f-f247fb9489fb/frontale.e.fondo.uniti-1.idw)** - 423.00 KB
-- **[lati con cerniera cartamodello.idw](https://github.com/HackabilityNPO/Hackability-Soluzioni/releases/download/project-c3c325a1-ca54-46b3-bd2f-f247fb9489fb/lati.con.cerniera.cartamodello.idw)** - 421.50 KB
+- **[Assieme sacca ortaggi ok-replaced-1769118482651.iam](https://github.com/HackabilityNPO/Hackability-Soluzioni/releases/download/project-c3c325a1-ca54-46b3-bd2f-f247fb9489fb/Assieme.sacca.ortaggi.ok-replaced-1769118482651.iam)** - 1.58 MB
+- **[Assieme sacca ortaggi ok-replaced-1769118486493.ipn](https://github.com/HackabilityNPO/Hackability-Soluzioni/releases/download/project-c3c325a1-ca54-46b3-bd2f-f247fb9489fb/Assieme.sacca.ortaggi.ok-replaced-1769118486493.ipn)** - 115.00 KB
+- **[Assiemetasca attrezzi ok-replaced-1769118490349.iam](https://github.com/HackabilityNPO/Hackability-Soluzioni/releases/download/project-c3c325a1-ca54-46b3-bd2f-f247fb9489fb/Assiemetasca.attrezzi.ok-replaced-1769118490349.iam)** - 935.50 KB
+- **[Assiemetasca attrezzi ok-replaced-1769118494493.ipn](https://github.com/HackabilityNPO/Hackability-Soluzioni/releases/download/project-c3c325a1-ca54-46b3-bd2f-f247fb9489fb/Assiemetasca.attrezzi.ok-replaced-1769118494493.ipn)** - 64.50 KB
+- **[attacco angolo esterno-replaced-1769118498158.ipt](https://github.com/HackabilityNPO/Hackability-Soluzioni/releases/download/project-c3c325a1-ca54-46b3-bd2f-f247fb9489fb/attacco.angolo.esterno-replaced-1769118498158.ipt)** - 114.00 KB
+- **[attacco angolo-replaced-1769118501591.ipt](https://github.com/HackabilityNPO/Hackability-Soluzioni/releases/download/project-c3c325a1-ca54-46b3-bd2f-f247fb9489fb/attacco.angolo-replaced-1769118501591.ipt)** - 158.00 KB
+- **[frontale e fondo con annotazioni-replaced-1769118505179.idw](https://github.com/HackabilityNPO/Hackability-Soluzioni/releases/download/project-c3c325a1-ca54-46b3-bd2f-f247fb9489fb/frontale.e.fondo.con.annotazioni-replaced-1769118505179.idw)** - 442.50 KB
+- **[frontale e fondo uniti-1-replaced-1769118508637.idw](https://github.com/HackabilityNPO/Hackability-Soluzioni/releases/download/project-c3c325a1-ca54-46b3-bd2f-f247fb9489fb/frontale.e.fondo.uniti-1-replaced-1769118508637.idw)** - 423.00 KB
+- **[lati con cerniera cartamodello-replaced-1769118512385.idw](https://github.com/HackabilityNPO/Hackability-Soluzioni/releases/download/project-c3c325a1-ca54-46b3-bd2f-f247fb9489fb/lati.con.cerniera.cartamodello-replaced-1769118512385.idw)** - 421.50 KB
 
 **Visualizza tutti i file della release:** [project-c3c325a1-ca54-46b3-bd2f-f247fb9489fb](https://github.com/HackabilityNPO/Hackability-Soluzioni/releases/tag/project-c3c325a1-ca54-46b3-bd2f-f247fb9489fb)
 

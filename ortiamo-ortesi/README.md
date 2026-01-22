@@ -125,7 +125,7 @@ Tutti i file del progetto sono disponibili come Release Assets su GitHub. Clicca
 - **[Plate-1.ipt](https://github.com/HackabilityNPO/Hackability-Soluzioni/releases/download/project-38b5ade6-56b0-42c3-832c-8d3d437e7015/Plate-1.ipt)** - 446.00 KB
 - **[Maniglia.ipt](https://github.com/HackabilityNPO/Hackability-Soluzioni/releases/download/project-38b5ade6-56b0-42c3-832c-8d3d437e7015/Maniglia.ipt)** - 319.00 KB
 - **[Aggancio_Attrezzi.ipt](https://github.com/HackabilityNPO/Hackability-Soluzioni/releases/download/project-38b5ade6-56b0-42c3-832c-8d3d437e7015/Aggancio_Attrezzi.ipt)** - 296.50 KB
-- **[Aggancio_Attrezzi - 2.ipt](https://github.com/HackabilityNPO/Hackability-Soluzioni/releases/download/project-38b5ade6-56b0-42c3-832c-8d3d437e7015/Aggancio_Attrezzi.-.2.ipt)** - 331.50 KB
+- **[Aggancio_Attrezzi - 2-replaced-1769118748572.ipt](https://github.com/HackabilityNPO/Hackability-Soluzioni/releases/download/project-38b5ade6-56b0-42c3-832c-8d3d437e7015/Aggancio_Attrezzi.-.2-replaced-1769118748572.ipt)** - 331.50 KB
 
 **Visualizza tutti i file della release:** [project-38b5ade6-56b0-42c3-832c-8d3d437e7015](https://github.com/HackabilityNPO/Hackability-Soluzioni/releases/tag/project-38b5ade6-56b0-42c3-832c-8d3d437e7015)
 

@@ -73,7 +73,7 @@ None listed.
 
 Tutti i file del progetto sono disponibili come Release Assets su GitHub. Clicca sui link sottostanti per scaricare i singoli file:
 
-- **[BICCHIERE TOMO.stl](https://github.com/HackabilityNPO/Hackability-Soluzioni/releases/download/project-39d9d253-6bd9-4d75-be54-0d7043fcb9e6/BICCHIERE.TOMO.stl)** - 6.83 MB
+- **[BICCHIERE TOMO-replaced-1769119254843.stl](https://github.com/HackabilityNPO/Hackability-Soluzioni/releases/download/project-39d9d253-6bd9-4d75-be54-0d7043fcb9e6/BICCHIERE.TOMO-replaced-1769119254843.stl)** - 6.83 MB
 
 **Visualizza tutti i file della release:** [project-39d9d253-6bd9-4d75-be54-0d7043fcb9e6](https://github.com/HackabilityNPO/Hackability-Soluzioni/releases/tag/project-39d9d253-6bd9-4d75-be54-0d7043fcb9e6)
 

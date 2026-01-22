@@ -138,9 +138,9 @@ None listed.
 
 Tutti i file del progetto sono disponibili come Release Assets su GitHub. Clicca sui link sottostanti per scaricare i singoli file:
 
-- **[SLITTA GIOTTO.stl](https://github.com/HackabilityNPO/Hackability-Soluzioni/releases/download/project-db2fe0b9-9db9-4b58-ab6a-1ae772379c33/SLITTA.GIOTTO.stl)** - 1.34 MB
-- **[MANICO GIOTTO.stl](https://github.com/HackabilityNPO/Hackability-Soluzioni/releases/download/project-db2fe0b9-9db9-4b58-ab6a-1ae772379c33/MANICO.GIOTTO.stl)** - 404.09 KB
-- **[CINTURINO GIOTTO.stl](https://github.com/HackabilityNPO/Hackability-Soluzioni/releases/download/project-db2fe0b9-9db9-4b58-ab6a-1ae772379c33/CINTURINO.GIOTTO.stl)** - 54.18 KB
+- **[SLITTA GIOTTO-replaced-1769118591481.stl](https://github.com/HackabilityNPO/Hackability-Soluzioni/releases/download/project-db2fe0b9-9db9-4b58-ab6a-1ae772379c33/SLITTA.GIOTTO-replaced-1769118591481.stl)** - 1.34 MB
+- **[MANICO GIOTTO-replaced-1769118595481.stl](https://github.com/HackabilityNPO/Hackability-Soluzioni/releases/download/project-db2fe0b9-9db9-4b58-ab6a-1ae772379c33/MANICO.GIOTTO-replaced-1769118595481.stl)** - 404.09 KB
+- **[CINTURINO GIOTTO-replaced-1769118598890.stl](https://github.com/HackabilityNPO/Hackability-Soluzioni/releases/download/project-db2fe0b9-9db9-4b58-ab6a-1ae772379c33/CINTURINO.GIOTTO-replaced-1769118598890.stl)** - 54.18 KB
 
 **Visualizza tutti i file della release:** [project-db2fe0b9-9db9-4b58-ab6a-1ae772379c33](https://github.com/HackabilityNPO/Hackability-Soluzioni/releases/tag/project-db2fe0b9-9db9-4b58-ab6a-1ae772379c33)
 

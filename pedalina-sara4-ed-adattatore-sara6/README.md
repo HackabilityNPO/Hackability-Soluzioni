@@ -103,9 +103,8 @@ None listed.
 
 Tutti i file del progetto sono disponibili come Release Assets su GitHub. Clicca sui link sottostanti per scaricare i singoli file:
 
-- **[Adattatore SARA6.gcode](https://github.com/HackabilityNPO/Hackability-Soluzioni/releases/download/project-03a979c7-47d9-4a6b-bfba-7402ba0d071a/Adattatore.SARA6.gcode)** - 15.47 MB
-- **[pedalina SARA4 taglio laser.3dm](https://github.com/HackabilityNPO/Hackability-Soluzioni/releases/download/project-03a979c7-47d9-4a6b-bfba-7402ba0d071a/pedalina.SARA4.taglio.laser.3dm)** - 184.13 KB
-- **[Pedalina SARA4.gcode](https://github.com/HackabilityNPO/Hackability-Soluzioni/releases/download/project-03a979c7-47d9-4a6b-bfba-7402ba0d071a/Pedalina.SARA4.gcode)** - 8.77 MB
+- **[Adattatore SARA6-replaced-1769117921312.gcode](https://github.com/HackabilityNPO/Hackability-Soluzioni/releases/download/project-03a979c7-47d9-4a6b-bfba-7402ba0d071a/Adattatore.SARA6-replaced-1769117921312.gcode)** - 15.47 MB
+- **[pedalina SARA4 taglio laser-replaced-1769117930421.3dm](https://github.com/HackabilityNPO/Hackability-Soluzioni/releases/download/project-03a979c7-47d9-4a6b-bfba-7402ba0d071a/pedalina.SARA4.taglio.laser-replaced-1769117930421.3dm)** - 184.13 KB
 
 **Visualizza tutti i file della release:** [project-03a979c7-47d9-4a6b-bfba-7402ba0d071a](https://github.com/HackabilityNPO/Hackability-Soluzioni/releases/tag/project-03a979c7-47d9-4a6b-bfba-7402ba0d071a)
 

@@ -82,15 +82,15 @@ None listed.
 
 Tutti i file del progetto sono disponibili come Release Assets su GitHub. Clicca sui link sottostanti per scaricare i singoli file:
 
-- **[stand tutore.stl](https://github.com/HackabilityNPO/Hackability-Soluzioni/releases/download/project-20549feb-0618-4fb4-86d4-f274d722feaa/stand.tutore.stl)** - 2.90 MB
-- **[supporto bicchiere.stl](https://github.com/HackabilityNPO/Hackability-Soluzioni/releases/download/project-20549feb-0618-4fb4-86d4-f274d722feaa/supporto.bicchiere.stl)** - 1.58 MB
-- **[supporto cannuccia.stl](https://github.com/HackabilityNPO/Hackability-Soluzioni/releases/download/project-20549feb-0618-4fb4-86d4-f274d722feaa/supporto.cannuccia.stl)** - 477.43 KB
+- **[stand tutore-replaced-1790877270210.stl](https://github.com/HackabilityNPO/Hackability-Soluzioni/releases/download/project-20549feb-0618-4fb4-86d4-f274d722feaa/stand.tutore-replaced-1790877270210.stl)** - 2.90 MB
+- **[supporto bicchiere-replaced-1790877275260.stl](https://github.com/HackabilityNPO/Hackability-Soluzioni/releases/download/project-20549feb-0618-4fb4-86d4-f274d722feaa/supporto.bicchiere-replaced-1790877275260.stl)** - 1.58 MB
+- **[supporto cannuccia-replaced-1790877279780.stl](https://github.com/HackabilityNPO/Hackability-Soluzioni/releases/download/project-20549feb-0618-4fb4-86d4-f274d722feaa/supporto.cannuccia-replaced-1790877279780.stl)** - 477.43 KB
 - **[Istruzioni.pdf](https://github.com/HackabilityNPO/Hackability-Soluzioni/releases/download/project-20549feb-0618-4fb4-86d4-f274d722feaa/Istruzioni.pdf)** - 1.73 MB
-- **[tecnico asta turore H(1).pdf](https://github.com/HackabilityNPO/Hackability-Soluzioni/releases/download/project-20549feb-0618-4fb4-86d4-f274d722feaa/tecnico.asta.turore.H.1.pdf)** - 953.13 KB
-- **[tecnico asta turore.pdf](https://github.com/HackabilityNPO/Hackability-Soluzioni/releases/download/project-20549feb-0618-4fb4-86d4-f274d722feaa/tecnico.asta.turore.pdf)** - 953.13 KB
-- **[tecnico stend agganci.pdf](https://github.com/HackabilityNPO/Hackability-Soluzioni/releases/download/project-20549feb-0618-4fb4-86d4-f274d722feaa/tecnico.stend.agganci.pdf)** - 1.13 MB
-- **[tecnico stend aggancio singolo .pdf](https://github.com/HackabilityNPO/Hackability-Soluzioni/releases/download/project-20549feb-0618-4fb4-86d4-f274d722feaa/tecnico.stend.aggancio.singolo.pdf)** - 1.04 MB
-- **[tecnino agganci utensili.pdf](https://github.com/HackabilityNPO/Hackability-Soluzioni/releases/download/project-20549feb-0618-4fb4-86d4-f274d722feaa/tecnino.agganci.utensili.pdf)** - 1.39 MB
+- **[tecnico asta turore H(1)-replaced-1790877286411.pdf](https://github.com/HackabilityNPO/Hackability-Soluzioni/releases/download/project-20549feb-0618-4fb4-86d4-f274d722feaa/tecnico.asta.turore.H.1.-replaced-1790877286411.pdf)** - 953.13 KB
+- **[tecnico asta turore-replaced-1790877290741.pdf](https://github.com/HackabilityNPO/Hackability-Soluzioni/releases/download/project-20549feb-0618-4fb4-86d4-f274d722feaa/tecnico.asta.turore-replaced-1790877290741.pdf)** - 953.13 KB
+- **[tecnico stend agganci-replaced-1790877295406.pdf](https://github.com/HackabilityNPO/Hackability-Soluzioni/releases/download/project-20549feb-0618-4fb4-86d4-f274d722feaa/tecnico.stend.agganci-replaced-1790877295406.pdf)** - 1.13 MB
+- **[tecnico stend aggancio singolo -replaced-1790877299739.pdf](https://github.com/HackabilityNPO/Hackability-Soluzioni/releases/download/project-20549feb-0618-4fb4-86d4-f274d722feaa/tecnico.stend.aggancio.singolo.-replaced-1790877299739.pdf)** - 1.04 MB
+- **[tecnino agganci utensili-replaced-1790877304177.pdf](https://github.com/HackabilityNPO/Hackability-Soluzioni/releases/download/project-20549feb-0618-4fb4-86d4-f274d722feaa/tecnino.agganci.utensili-replaced-1790877304177.pdf)** - 1.39 MB
 
 **Visualizza tutti i file della release:** [project-20549feb-0618-4fb4-86d4-f274d722feaa](https://github.com/HackabilityNPO/Hackability-Soluzioni/releases/tag/project-20549feb-0618-4fb4-86d4-f274d722feaa)
 

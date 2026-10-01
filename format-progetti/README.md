@@ -56,11 +56,11 @@ None listed.
 
 Tutti i file del progetto sono disponibili come Release Assets su GitHub. Clicca sui link sottostanti per scaricare i singoli file:
 
-- **[Layout generico.aftemplate](https://github.com/HackabilityNPO/Hackability-Soluzioni/releases/download/project-4aeb42ca-0c39-439b-b193-62a35ac06087/Layout.generico.aftemplate)** - 569.85 KB
-- **[Layout generico pdf modificabile.pdf](https://github.com/HackabilityNPO/Hackability-Soluzioni/releases/download/project-4aeb42ca-0c39-439b-b193-62a35ac06087/Layout.generico.pdf.modificabile.pdf)** - 146.57 KB
-- **[Layout Progetti.af](https://github.com/HackabilityNPO/Hackability-Soluzioni/releases/download/project-4aeb42ca-0c39-439b-b193-62a35ac06087/Layout.Progetti.af)** - 550.59 KB
-- **[Altone Trial-Regular.ttf](https://github.com/HackabilityNPO/Hackability-Soluzioni/releases/download/project-4aeb42ca-0c39-439b-b193-62a35ac06087/Altone.Trial-Regular.ttf)** - 50.80 KB
-- **[Layout copertina pdf modificabile.pdf](https://github.com/HackabilityNPO/Hackability-Soluzioni/releases/download/project-4aeb42ca-0c39-439b-b193-62a35ac06087/Layout.copertina.pdf.modificabile.pdf)** - 128.04 KB
+- **[Layout generico-replaced-1790875452357.aftemplate](https://github.com/HackabilityNPO/Hackability-Soluzioni/releases/download/project-4aeb42ca-0c39-439b-b193-62a35ac06087/Layout.generico-replaced-1790875452357.aftemplate)** - 569.85 KB
+- **[Layout generico pdf modificabile-replaced-1790875456704.pdf](https://github.com/HackabilityNPO/Hackability-Soluzioni/releases/download/project-4aeb42ca-0c39-439b-b193-62a35ac06087/Layout.generico.pdf.modificabile-replaced-1790875456704.pdf)** - 146.57 KB
+- **[Layout Progetti-replaced-1790875460528.af](https://github.com/HackabilityNPO/Hackability-Soluzioni/releases/download/project-4aeb42ca-0c39-439b-b193-62a35ac06087/Layout.Progetti-replaced-1790875460528.af)** - 550.59 KB
+- **[Altone Trial-Regular-replaced-1790875465205.ttf](https://github.com/HackabilityNPO/Hackability-Soluzioni/releases/download/project-4aeb42ca-0c39-439b-b193-62a35ac06087/Altone.Trial-Regular-replaced-1790875465205.ttf)** - 50.80 KB
+- **[Layout copertina pdf modificabile-replaced-1790875469878.pdf](https://github.com/HackabilityNPO/Hackability-Soluzioni/releases/download/project-4aeb42ca-0c39-439b-b193-62a35ac06087/Layout.copertina.pdf.modificabile-replaced-1790875469878.pdf)** - 128.04 KB
 
 **Visualizza tutti i file della release:** [project-4aeb42ca-0c39-439b-b193-62a35ac06087](https://github.com/HackabilityNPO/Hackability-Soluzioni/releases/tag/project-4aeb42ca-0c39-439b-b193-62a35ac06087)
 

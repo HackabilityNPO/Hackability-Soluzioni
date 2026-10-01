@@ -65,7 +65,7 @@ None listed.
 
 Tutti i file del progetto sono disponibili come Release Assets su GitHub. Clicca sui link sottostanti per scaricare i singoli file:
 
-- **[SUPPORTO LEONARDO-replaced-1769118206584.stl](https://github.com/HackabilityNPO/Hackability-Soluzioni/releases/download/project-48e3179a-a55f-4d22-a48b-31c42fb32243/SUPPORTO.LEONARDO-replaced-1769118206584.stl)** - 191.49 KB
+- **[SUPPORTO LEONARDO-replaced-1790875934428.stl](https://github.com/HackabilityNPO/Hackability-Soluzioni/releases/download/project-48e3179a-a55f-4d22-a48b-31c42fb32243/SUPPORTO.LEONARDO-replaced-1790875934428.stl)** - 191.49 KB
 
 **Visualizza tutti i file della release:** [project-48e3179a-a55f-4d22-a48b-31c42fb32243](https://github.com/HackabilityNPO/Hackability-Soluzioni/releases/tag/project-48e3179a-a55f-4d22-a48b-31c42fb32243)
 

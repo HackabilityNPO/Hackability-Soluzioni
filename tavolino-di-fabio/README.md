@@ -141,10 +141,10 @@ None listed.
 
 Tutti i file del progetto sono disponibili come Release Assets su GitHub. Clicca sui link sottostanti per scaricare i singoli file:
 
-- **[Tavolino sotto-replaced-1769118701347.dxf](https://github.com/HackabilityNPO/Hackability-Soluzioni/releases/download/project-8d36d181-7c94-49b4-9c37-954e800fec7f/Tavolino.sotto-replaced-1769118701347.dxf)** - 95.64 KB
-- **[Tavolino sopra-replaced-1769118705609.dxf](https://github.com/HackabilityNPO/Hackability-Soluzioni/releases/download/project-8d36d181-7c94-49b4-9c37-954e800fec7f/Tavolino.sopra-replaced-1769118705609.dxf)** - 92.64 KB
-- **[Supporto braccio-replaced-1769118710707.f3d](https://github.com/HackabilityNPO/Hackability-Soluzioni/releases/download/project-8d36d181-7c94-49b4-9c37-954e800fec7f/Supporto.braccio-replaced-1769118710707.f3d)** - 1.32 MB
-- **[Prova agganci -replaced-1769118714892.f3d](https://github.com/HackabilityNPO/Hackability-Soluzioni/releases/download/project-8d36d181-7c94-49b4-9c37-954e800fec7f/Prova.agganci.-replaced-1769118714892.f3d)** - 130.38 KB
+- **[Tavolino sotto-replaced-1790877989506.dxf](https://github.com/HackabilityNPO/Hackability-Soluzioni/releases/download/project-8d36d181-7c94-49b4-9c37-954e800fec7f/Tavolino.sotto-replaced-1790877989506.dxf)** - 95.64 KB
+- **[Tavolino sopra-replaced-1790877994232.dxf](https://github.com/HackabilityNPO/Hackability-Soluzioni/releases/download/project-8d36d181-7c94-49b4-9c37-954e800fec7f/Tavolino.sopra-replaced-1790877994232.dxf)** - 92.64 KB
+- **[Supporto braccio-replaced-1790877998833.f3d](https://github.com/HackabilityNPO/Hackability-Soluzioni/releases/download/project-8d36d181-7c94-49b4-9c37-954e800fec7f/Supporto.braccio-replaced-1790877998833.f3d)** - 1.32 MB
+- **[Prova agganci -replaced-1790878004168.f3d](https://github.com/HackabilityNPO/Hackability-Soluzioni/releases/download/project-8d36d181-7c94-49b4-9c37-954e800fec7f/Prova.agganci.-replaced-1790878004168.f3d)** - 130.38 KB
 - **[Portaborraccia.f3d](https://github.com/HackabilityNPO/Hackability-Soluzioni/releases/download/project-8d36d181-7c94-49b4-9c37-954e800fec7f/Portaborraccia.f3d)** - 71.03 KB
 
 **Visualizza tutti i file della release:** [project-8d36d181-7c94-49b4-9c37-954e800fec7f](https://github.com/HackabilityNPO/Hackability-Soluzioni/releases/tag/project-8d36d181-7c94-49b4-9c37-954e800fec7f)

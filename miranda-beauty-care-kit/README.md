@@ -97,10 +97,10 @@ None listed.
 Tutti i file del progetto sono disponibili come Release Assets su GitHub. Clicca sui link sottostanti per scaricare i singoli file:
 
 - **[Mensola.stl](https://github.com/HackabilityNPO/Hackability-Soluzioni/releases/download/project-adc19d46-0b72-453e-ab23-e819866b1f3c/Mensola.stl)** - 1.09 MB
-- **[Porta-detergente roll on.stl](https://github.com/HackabilityNPO/Hackability-Soluzioni/releases/download/project-adc19d46-0b72-453e-ab23-e819866b1f3c/Porta-detergente.roll.on.stl)** - 3.34 MB
+- **[Porta-detergente roll on-replaced-1790877196770.stl](https://github.com/HackabilityNPO/Hackability-Soluzioni/releases/download/project-adc19d46-0b72-453e-ab23-e819866b1f3c/Porta-detergente.roll.on-replaced-1790877196770.stl)** - 3.34 MB
 - **[Specchio.stl](https://github.com/HackabilityNPO/Hackability-Soluzioni/releases/download/project-adc19d46-0b72-453e-ab23-e819866b1f3c/Specchio.stl)** - 127.91 KB
 - **[Tonico.stl](https://github.com/HackabilityNPO/Hackability-Soluzioni/releases/download/project-adc19d46-0b72-453e-ab23-e819866b1f3c/Tonico.stl)** - 1.33 MB
-- **[Dispenser dischetti.stl](https://github.com/HackabilityNPO/Hackability-Soluzioni/releases/download/project-adc19d46-0b72-453e-ab23-e819866b1f3c/Dispenser.dischetti.stl)** - 2.46 MB
+- **[Dispenser dischetti-replaced-1790877205187.stl](https://github.com/HackabilityNPO/Hackability-Soluzioni/releases/download/project-adc19d46-0b72-453e-ab23-e819866b1f3c/Dispenser.dischetti-replaced-1790877205187.stl)** - 2.46 MB
 - **[Gancio.stl](https://github.com/HackabilityNPO/Hackability-Soluzioni/releases/download/project-adc19d46-0b72-453e-ab23-e819866b1f3c/Gancio.stl)** - 94.03 KB
 - **[Archetto.stl](https://github.com/HackabilityNPO/Hackability-Soluzioni/releases/download/project-adc19d46-0b72-453e-ab23-e819866b1f3c/Archetto.stl)** - 1.08 MB
 

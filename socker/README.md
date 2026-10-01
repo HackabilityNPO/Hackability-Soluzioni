@@ -104,8 +104,8 @@ None listed.
 
 Tutti i file del progetto sono disponibili come Release Assets su GitHub. Clicca sui link sottostanti per scaricare i singoli file:
 
-- **[anello supporto-replaced-1769118936281.stl](https://github.com/HackabilityNPO/Hackability-Soluzioni/releases/download/project-c0c03868-262c-4015-89de-88a56c0e639c/anello.supporto-replaced-1769118936281.stl)** - 933.58 KB
-- **[Calzacalze Socker-replaced-1769118940560.stl](https://github.com/HackabilityNPO/Hackability-Soluzioni/releases/download/project-c0c03868-262c-4015-89de-88a56c0e639c/Calzacalze.Socker-replaced-1769118940560.stl)** - 778.65 KB
+- **[anello supporto-replaced-1790878398896.stl](https://github.com/HackabilityNPO/Hackability-Soluzioni/releases/download/project-c0c03868-262c-4015-89de-88a56c0e639c/anello.supporto-replaced-1790878398896.stl)** - 933.58 KB
+- **[Calzacalze Socker-replaced-1790878403633.stl](https://github.com/HackabilityNPO/Hackability-Soluzioni/releases/download/project-c0c03868-262c-4015-89de-88a56c0e639c/Calzacalze.Socker-replaced-1790878403633.stl)** - 778.65 KB
 
 **Visualizza tutti i file della release:** [project-c0c03868-262c-4015-89de-88a56c0e639c](https://github.com/HackabilityNPO/Hackability-Soluzioni/releases/tag/project-c0c03868-262c-4015-89de-88a56c0e639c)
 

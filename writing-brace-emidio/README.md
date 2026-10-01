@@ -84,11 +84,11 @@ None listed.
 
 Tutti i file del progetto sono disponibili come Release Assets su GitHub. Clicca sui link sottostanti per scaricare i singoli file:
 
-- **[writing tool brace.stl](https://github.com/HackabilityNPO/Hackability-Soluzioni/releases/download/project-0750b254-714e-428e-97cc-938ca0af2411/writing.tool.brace.stl)** - 4.14 MB
-- **[tecnici incastro penna.pdf](https://github.com/HackabilityNPO/Hackability-Soluzioni/releases/download/project-0750b254-714e-428e-97cc-938ca0af2411/tecnici.incastro.penna.pdf)** - 221.14 KB
-- **[tecnici base.pdf](https://github.com/HackabilityNPO/Hackability-Soluzioni/releases/download/project-0750b254-714e-428e-97cc-938ca0af2411/tecnici.base.pdf)** - 302.24 KB
-- **[tecnici incastro strumento scrittura 1.pdf](https://github.com/HackabilityNPO/Hackability-Soluzioni/releases/download/project-0750b254-714e-428e-97cc-938ca0af2411/tecnici.incastro.strumento.scrittura.1.pdf)** - 235.31 KB
-- **[tecnici incastro strumento scrittura 2.pdf](https://github.com/HackabilityNPO/Hackability-Soluzioni/releases/download/project-0750b254-714e-428e-97cc-938ca0af2411/tecnici.incastro.strumento.scrittura.2.pdf)** - 369.52 KB
+- **[writing tool brace-replaced-1790877128934.stl](https://github.com/HackabilityNPO/Hackability-Soluzioni/releases/download/project-0750b254-714e-428e-97cc-938ca0af2411/writing.tool.brace-replaced-1790877128934.stl)** - 4.14 MB
+- **[tecnici incastro penna-replaced-1790877133676.pdf](https://github.com/HackabilityNPO/Hackability-Soluzioni/releases/download/project-0750b254-714e-428e-97cc-938ca0af2411/tecnici.incastro.penna-replaced-1790877133676.pdf)** - 221.14 KB
+- **[tecnici base-replaced-1790877137709.pdf](https://github.com/HackabilityNPO/Hackability-Soluzioni/releases/download/project-0750b254-714e-428e-97cc-938ca0af2411/tecnici.base-replaced-1790877137709.pdf)** - 302.24 KB
+- **[tecnici incastro strumento scrittura 1-replaced-1790877142185.pdf](https://github.com/HackabilityNPO/Hackability-Soluzioni/releases/download/project-0750b254-714e-428e-97cc-938ca0af2411/tecnici.incastro.strumento.scrittura.1-replaced-1790877142185.pdf)** - 235.31 KB
+- **[tecnici incastro strumento scrittura 2-replaced-1790877146104.pdf](https://github.com/HackabilityNPO/Hackability-Soluzioni/releases/download/project-0750b254-714e-428e-97cc-938ca0af2411/tecnici.incastro.strumento.scrittura.2-replaced-1790877146104.pdf)** - 369.52 KB
 
 **Visualizza tutti i file della release:** [project-0750b254-714e-428e-97cc-938ca0af2411](https://github.com/HackabilityNPO/Hackability-Soluzioni/releases/tag/project-0750b254-714e-428e-97cc-938ca0af2411)
 

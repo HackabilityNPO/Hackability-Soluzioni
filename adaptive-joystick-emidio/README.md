@@ -70,8 +70,8 @@ None listed.
 
 Tutti i file del progetto sono disponibili come Release Assets su GitHub. Clicca sui link sottostanti per scaricare i singoli file:
 
-- **[adaptabile joystick.3dm](https://github.com/HackabilityNPO/Hackability-Soluzioni/releases/download/project-f8dfbf17-5626-4a89-aa8b-bd3536ce04f7/adaptabile.joystick.3dm)** - 898.13 KB
-- **[adaptive joystick.stl](https://github.com/HackabilityNPO/Hackability-Soluzioni/releases/download/project-f8dfbf17-5626-4a89-aa8b-bd3536ce04f7/adaptive.joystick.stl)** - 3.99 MB
+- **[adaptabile joystick-replaced-1790877167795.3dm](https://github.com/HackabilityNPO/Hackability-Soluzioni/releases/download/project-f8dfbf17-5626-4a89-aa8b-bd3536ce04f7/adaptabile.joystick-replaced-1790877167795.3dm)** - 898.13 KB
+- **[adaptive joystick-replaced-1790877171630.stl](https://github.com/HackabilityNPO/Hackability-Soluzioni/releases/download/project-f8dfbf17-5626-4a89-aa8b-bd3536ce04f7/adaptive.joystick-replaced-1790877171630.stl)** - 3.99 MB
 - **[99.pdf](https://github.com/HackabilityNPO/Hackability-Soluzioni/releases/download/project-f8dfbf17-5626-4a89-aa8b-bd3536ce04f7/99.pdf)** - 291.79 KB
 
 **Visualizza tutti i file della release:** [project-f8dfbf17-5626-4a89-aa8b-bd3536ce04f7](https://github.com/HackabilityNPO/Hackability-Soluzioni/releases/tag/project-f8dfbf17-5626-4a89-aa8b-bd3536ce04f7)

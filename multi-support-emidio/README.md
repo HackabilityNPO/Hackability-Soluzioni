@@ -66,8 +66,8 @@ None listed.
 
 Tutti i file del progetto sono disponibili come Release Assets su GitHub. Clicca sui link sottostanti per scaricare i singoli file:
 
-- **[multi support-replaced-1790875305179.stl](https://github.com/HackabilityNPO/Hackability-Soluzioni/releases/download/project-9fd59fb4-b97d-42ce-9410-d6dddcd596c5/multi.support-replaced-1790875305179.stl)** - 689.44 KB
-- **[multi support-replaced-1790875309442.3dm](https://github.com/HackabilityNPO/Hackability-Soluzioni/releases/download/project-9fd59fb4-b97d-42ce-9410-d6dddcd596c5/multi.support-replaced-1790875309442.3dm)** - 733.62 KB
+- **[multi support-replaced-1790875480956.stl](https://github.com/HackabilityNPO/Hackability-Soluzioni/releases/download/project-9fd59fb4-b97d-42ce-9410-d6dddcd596c5/multi.support-replaced-1790875480956.stl)** - 689.44 KB
+- **[multi support-replaced-1790875485469.3dm](https://github.com/HackabilityNPO/Hackability-Soluzioni/releases/download/project-9fd59fb4-b97d-42ce-9410-d6dddcd596c5/multi.support-replaced-1790875485469.3dm)** - 733.62 KB
 - **[999.pdf](https://github.com/HackabilityNPO/Hackability-Soluzioni/releases/download/project-9fd59fb4-b97d-42ce-9410-d6dddcd596c5/999.pdf)** - 532.21 KB
 - **[000.pdf](https://github.com/HackabilityNPO/Hackability-Soluzioni/releases/download/project-9fd59fb4-b97d-42ce-9410-d6dddcd596c5/000.pdf)** - 183.54 KB
 

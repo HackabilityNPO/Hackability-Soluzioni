@@ -61,7 +61,7 @@ None listed.
 
 Tutti i file del progetto sono disponibili come Release Assets su GitHub. Clicca sui link sottostanti per scaricare i singoli file:
 
-- **[P-Cane (1)-replaced-1769118537199.stl](https://github.com/HackabilityNPO/Hackability-Soluzioni/releases/download/project-8d672770-a940-4081-ba64-7f6b093c0e0c/P-Cane.1.-replaced-1769118537199.stl)** - 1.17 MB
+- **[P-Cane (1)-replaced-1790877809196.stl](https://github.com/HackabilityNPO/Hackability-Soluzioni/releases/download/project-8d672770-a940-4081-ba64-7f6b093c0e0c/P-Cane.1.-replaced-1790877809196.stl)** - 1.17 MB
 
 **Visualizza tutti i file della release:** [project-8d672770-a940-4081-ba64-7f6b093c0e0c](https://github.com/HackabilityNPO/Hackability-Soluzioni/releases/tag/project-8d672770-a940-4081-ba64-7f6b093c0e0c)
 

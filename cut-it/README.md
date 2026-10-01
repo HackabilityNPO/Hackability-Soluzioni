@@ -87,9 +87,10 @@ None listed.
 
 Tutti i file del progetto sono disponibili come Release Assets su GitHub. Clicca sui link sottostanti per scaricare i singoli file:
 
-- **[manico mannaia (parte bullone)-replaced-1769118000518.stl](https://github.com/HackabilityNPO/Hackability-Soluzioni/releases/download/project-ca8dac83-176b-4669-9476-d7599963e26b/manico.mannaia.parte.bullone.-replaced-1769118000518.stl)** - 330.75 KB
-- **[manico seghettato (parte bullone)-replaced-1769118128083.stl](https://github.com/HackabilityNPO/Hackability-Soluzioni/releases/download/project-ca8dac83-176b-4669-9476-d7599963e26b/manico.seghettato.parte.bullone.-replaced-1769118128083.stl)** - 1.03 MB
-- **[manico seghettato (parte vite)-replaced-1769118132394.stl](https://github.com/HackabilityNPO/Hackability-Soluzioni/releases/download/project-ca8dac83-176b-4669-9476-d7599963e26b/manico.seghettato.parte.vite.-replaced-1769118132394.stl)** - 1.07 MB
+- **[manico mannaia (parte bullone)-replaced-1790875837251.stl](https://github.com/HackabilityNPO/Hackability-Soluzioni/releases/download/project-ca8dac83-176b-4669-9476-d7599963e26b/manico.mannaia.parte.bullone.-replaced-1790875837251.stl)** - 330.75 KB
+- **[manico mannaia (parte vite)-replaced-1790875841372.stl](https://github.com/HackabilityNPO/Hackability-Soluzioni/releases/download/project-ca8dac83-176b-4669-9476-d7599963e26b/manico.mannaia.parte.vite.-replaced-1790875841372.stl)** - 1.19 MB
+- **[manico seghettato (parte bullone)-replaced-1790875845867.stl](https://github.com/HackabilityNPO/Hackability-Soluzioni/releases/download/project-ca8dac83-176b-4669-9476-d7599963e26b/manico.seghettato.parte.bullone.-replaced-1790875845867.stl)** - 1.03 MB
+- **[manico seghettato (parte vite)-replaced-1790875851194.stl](https://github.com/HackabilityNPO/Hackability-Soluzioni/releases/download/project-ca8dac83-176b-4669-9476-d7599963e26b/manico.seghettato.parte.vite.-replaced-1790875851194.stl)** - 1.07 MB
 
 **Visualizza tutti i file della release:** [project-ca8dac83-176b-4669-9476-d7599963e26b](https://github.com/HackabilityNPO/Hackability-Soluzioni/releases/tag/project-ca8dac83-176b-4669-9476-d7599963e26b)
 

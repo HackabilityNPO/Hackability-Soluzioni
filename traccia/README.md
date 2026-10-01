@@ -82,9 +82,9 @@ None listed.
 
 Tutti i file del progetto sono disponibili come Release Assets su GitHub. Clicca sui link sottostanti per scaricare i singoli file:
 
-- **[Supporto alla scrittura Traccia-replaced-1790876064931.stl](https://github.com/HackabilityNPO/Hackability-Soluzioni/releases/download/project-38e7356d-b199-4c9e-82d2-f956f7e2ff9d/Supporto.alla.scrittura.Traccia-replaced-1790876064931.stl)** - 14.87 MB
-- **[anello supporto-replaced-1790876070915.stl](https://github.com/HackabilityNPO/Hackability-Soluzioni/releases/download/project-38e7356d-b199-4c9e-82d2-f956f7e2ff9d/anello.supporto-replaced-1790876070915.stl)** - 933.58 KB
-- **[cap supporto penna bic-replaced-1790876076386.stl](https://github.com/HackabilityNPO/Hackability-Soluzioni/releases/download/project-38e7356d-b199-4c9e-82d2-f956f7e2ff9d/cap.supporto.penna.bic-replaced-1790876076386.stl)** - 1.12 MB
+- **[Supporto alla scrittura Traccia-replaced-1790877699368.stl](https://github.com/HackabilityNPO/Hackability-Soluzioni/releases/download/project-38e7356d-b199-4c9e-82d2-f956f7e2ff9d/Supporto.alla.scrittura.Traccia-replaced-1790877699368.stl)** - 14.87 MB
+- **[anello supporto-replaced-1790877705533.stl](https://github.com/HackabilityNPO/Hackability-Soluzioni/releases/download/project-38e7356d-b199-4c9e-82d2-f956f7e2ff9d/anello.supporto-replaced-1790877705533.stl)** - 933.58 KB
+- **[cap supporto penna bic-replaced-1790877710526.stl](https://github.com/HackabilityNPO/Hackability-Soluzioni/releases/download/project-38e7356d-b199-4c9e-82d2-f956f7e2ff9d/cap.supporto.penna.bic-replaced-1790877710526.stl)** - 1.12 MB
 
 **Visualizza tutti i file della release:** [project-38e7356d-b199-4c9e-82d2-f956f7e2ff9d](https://github.com/HackabilityNPO/Hackability-Soluzioni/releases/tag/project-38e7356d-b199-4c9e-82d2-f956f7e2ff9d)
 

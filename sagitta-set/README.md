@@ -86,6 +86,14 @@ None listed.
    Seguire i seguenti passaggi: 4
 
 
+## 📥 Download
+
+Tutti i file del progetto sono disponibili come Release Assets su GitHub. Clicca sui link sottostanti per scaricare i singoli file:
+
+- **[anello supporto-replaced-1790878533004.stl](https://github.com/HackabilityNPO/Hackability-Soluzioni/releases/download/project-0a2b4e67-8375-456b-9ce7-40b8cd9cd5fe/anello.supporto-replaced-1790878533004.stl)** - 933.58 KB
+
+**Visualizza tutti i file della release:** [project-0a2b4e67-8375-456b-9ce7-40b8cd9cd5fe](https://github.com/HackabilityNPO/Hackability-Soluzioni/releases/tag/project-0a2b4e67-8375-456b-9ce7-40b8cd9cd5fe)
+
 
 
 ## Tags
